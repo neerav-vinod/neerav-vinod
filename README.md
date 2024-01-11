@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Ff6hnhHkks8bk4jwjh3%2Fgiphy.gif&f=1&nofb=1&ipt=e71f12e2763d00d21d292716d1d470fa778829895193dd532b97c0e27adac6c4&ipo=images"  />
 
 ###
 
